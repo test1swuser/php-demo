@@ -15,5 +15,6 @@
   $projectName = $_ENV['PROJECT_NAME'];
   echo "<p style='text-align: center'>Powered By " . $projectName . " Buildpacks</p>"
 ?>
+  <p>ver 1.0.1</p>
   </body>
 </html>
